@@ -1,0 +1,3 @@
+include versioneer.py
+include hyper_tuner/_version.py
+include requirements.txt
